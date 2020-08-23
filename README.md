@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👨🏻‍🎓 - Bacharel of Computer Science
+💻 - Software Developer at [Nordware](https://nordware.io/).
