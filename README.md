@@ -1,4 +1,4 @@
-### Hey I'm João Antonio Martins Filho!! 👋
+### Hello there, my name is João Antonio Martins Filho!! 👋
 
 <!--
 **joaoantoniomartinsfilho/joaoantoniomartinsfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 
 
 👨🏻‍🎓 - Bacharel of Computer Science. <br>
-💻 - Software Engineer at [Nordware](https://nordware.io/).<br>
+💻 - Solution Architect at [Nordware](https://nordware.io/).<br>
 👨‍👩‍👧 - Father of Valentina Martins and Husband of Danielle de Castro. <br>
 🇧🇷 - Born in Francisco Beltrão, Brazil. <br>
 🇧🇷 - Living in Curitiba, Paraná, Brazil. <br>
 👯 - I'm looking to collaborate on open sources projects, just let me know! <br>
+
+---
+###### Certifications
+
+[CKA - Certified Kubernetes Administrator](https://www.credly.com/badges/9ba76b2c-8030-4fba-9fd2-3331c4b65e4f). <br>
+
