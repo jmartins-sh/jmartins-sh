@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 👨🏻‍🎓 - Bacharel of Computer Science. <br>
-💻 - Solution Architect at [Nordware](https://nordware.io/).<br>
+💻 - Software Engineer at [ZBRA](https://zbra.dev/).<br>
 👨‍👩‍👧 - Father of Valentina Martins and Husband of Danielle de Castro. <br>
 🇧🇷 - Born in Francisco Beltrão, Brazil. <br>
 🇧🇷 - Living in Curitiba, Paraná, Brazil. <br>
