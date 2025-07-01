@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 👨🏻‍🎓 - Bacharel of Computer Science. <br>
 💻 - Software Engineer at [ZBRA](https://zbra.dev/).<br>
-🇧🇷 - Born in Francisco Beltrão, Brazil. <br>
-🇧🇷 - Living in Curitiba, Paraná, Brazil. <br>
 👯 - I'm looking forward to collaborate on open sources projects, just let me know! <br>
 
 ---
